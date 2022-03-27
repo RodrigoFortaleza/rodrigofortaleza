@@ -4,7 +4,7 @@
 - 🌱 Estudando React e TypeScript
 - 🎓 Estudando Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: rodrigo-edufortaleza@hotmail.com
-- 🤓 Pronouns: ele/dele
+- 🤓 ele/dele
 
 
 <div align="center">
